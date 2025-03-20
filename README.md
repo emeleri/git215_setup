@@ -1,2 +1,2 @@
 # git215_setup
-example repository
+<!-- ## Author: Eleonora Meleri -->
